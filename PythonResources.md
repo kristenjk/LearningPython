@@ -32,6 +32,9 @@ IDE- Integrated Development Environment
 <li>IDLE Python GUI: comes with ArcGIS install</li>
 <li>PythonWin</li>
 <li>PyScripter</li>
+<li>PyCharm</li>
+<li>Notepad++</li>
+<li>Visual Studio Add-In: IronPython?</li>
 </ul>
 
 What do I write?
